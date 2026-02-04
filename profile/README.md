@@ -138,61 +138,45 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 
 # **Atribuições do Engenheiro de Software – LigaLabs**
 
-## **Levantamento de Requisitos e Negócio**
+1.  **Levantamento de Requisitos e Negócio**
 
- **Participar de reuniões com stakeholders (produto, negócio e usuários)**
+     * Participar de reuniões com stakeholders (produto, negócio e usuários)
+     * Entender as necessidades do cliente ou do negócio
+     * Traduzir problemas reais em soluções técnicas
+     * Especificar e melhorar requisitos de sistemas
 
- **Entender as necessidades do cliente ou do negócio**
+2.  **Planejamento e Coordenação Técnica**
 
- **Traduzir problemas reais em soluções técnicas**
+     * Planejar e revisar sprints
+     * Definir tarefas técnicas para desenvolvedores e designers
+     * Remover impedimentos e articular com a equipe
+     * Ajudar na tomada de decisões técnicas do time
+     * Mentorar desenvolvedores mais novos
 
- **Especificar e melhorar requisitos de sistemas**
+3.  **Arquitetura, Design e Modelagem**
 
-## **Planejamento e Coordenação Técnica**
+     * Definir a arquitetura do software
+     * Pensar em escalabilidade, segurança e manutenibilidade
+     * Projetar APIs, integrações e fluxos de dados
+     * Construir documentos de modelagem do sistema (Diagramas de Classes e DER)
+     * Melhorar continuamente os templates de projeto
+     * Documentar código e decisões técnicas**
 
- **Planejar e revisar sprints**
+4.  **Desenvolvimento e Qualidade**
 
- **Definir tarefas técnicas para desenvolvedores e designers**
+     * Criar versões estáveis de código
+     * Revisar código com base em boas práticas (SOLID, DRY, KISS, Clean Code)
+     * Garantir que o sistema funcione corretamente antes de ir para produção
 
- **Remover impedimentos e articular com a equipe**
+5.  **Entrega, Operação e DevOps**
 
- **Ajudar na tomada de decisões técnicas do time**
+     * Preparar o software para produção
+     * Estruturar pipelines de CI/CD
+     * Monitorar sistemas em funcionamento
 
- **Mentorar desenvolvedores mais novos**
+6.  **Evolução Contínua**
 
-## **Arquitetura, Design e Modelagem**
-
- **Definir a arquitetura do software**
-
- **Pensar em escalabilidade, segurança e manutenibilidade**
-
- **Projetar APIs, integrações e fluxos de dados**
-
- **Construir documentos de modelagem do sistema (Diagramas de Classes e DER)**
-
-**Melhorar continuamente os templates de projeto**
-
-**Documentar código e decisões técnicas**
-
-## **Desenvolvimento e Qualidade**
-
-**Criar versões estáveis de código**
-
-**Revisar código com base em boas práticas (SOLID, DRY, KISS, Clean Code)**
-
-**Garantir que o sistema funcione corretamente antes de ir para produção**
-
-## **Entrega, Operação e DevOps**
-
-**Preparar o software para produção**
-
-**Estruturar pipelines de CI/CD**
-
-**Monitorar sistemas em funcionamento**
-
-## **Evolução Contínua**
-
-**Aprender novas tecnologias e ferramentas**
+     * Aprender novas tecnologias e ferramentas
 
 ### 
 
