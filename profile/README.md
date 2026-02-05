@@ -54,7 +54,7 @@ Ao ingressar em um projeto, o participante é adicionado ao **time** corresponde
 
 [Acessar Time no GitHub](https://github.com/orgs/liga-labs/teams/c04-plataforma-upe-saude-digital)
 
-## C04 - Plataforma UPE/SAD - Admissão [Gov.PE](http://gov.pe/)
+## C04 - Plataforma UPE/SAD - Admissão Gov.PE
 
 [Acessar Time no GitHub](https://github.com/orgs/liga-labs/teams/c04-plataforma-upe-sad-admissao-gov-pe)
 
