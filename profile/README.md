@@ -4,6 +4,34 @@ Este documento reúne as principais orientações para novos integrantes dos pro
 
 Ao ingressar em um projeto, o participante é adicionado ao **time** correspondente no **GitHub**, com acesso aos repositórios e ao quadro de gestão de tarefas disponível na aba `Projects`.
 
+- [Guia de Onboarding](#guia-de-onboarding)
+- [👥 Squads](#-squads)
+  - [C04 - Plataforma ADAGRO - Conecta](#c04---plataforma-adagro---conecta)
+  - [C04 - Plataforma CBMPE + PMPE - Certidões Digitais](#c04---plataforma-cbmpe--pmpe---certidões-digitais)
+  - [C04 - Plataforma CPRH - Na palma da mão](#c04---plataforma-cprh---na-palma-da-mão)
+  - [C04 - Plataforma Procon - ReclamaProcon](#c04---plataforma-procon---reclamaprocon)
+  - [C04 - Plataforma UPE - Saúde Digital](#c04---plataforma-upe---saúde-digital)
+  - [C04 - Plataforma UPE/SAD - Admissão Gov.PE](#c04---plataforma-upesad---admissão-govpe)
+- [📘 Manual de Padrões e Ferramentas](#-manual-de-padrões-e-ferramentas)
+- [💬 Discord](#-discord)
+  - [🚨 Regra de Comunicação](#-regra-de-comunicação)
+- [🎨 Aos Designers](#-aos-designers)
+  - [🎨🛠️ Instruções Figma](#️-instruções-figma)
+  - [📄 PPT Onboarding Design](#-ppt-onboarding-design)
+  - [🔗 Links Figmas](#-links-figmas)
+- [🛠️ Aos Engenheiros de Software](#️-aos-engenheiros-de-software)
+  - [Agendamento de Planejamento e Revisão de Sprint](#agendamento-de-planejamento-e-revisão-de-sprint)
+    - [**Padrão para o título do evento**](#padrão-para-o-título-do-evento)
+  - [Agendamento de Reunião de Validação com o Cliente](#agendamento-de-reunião-de-validação-com-o-cliente)
+    - [**Padrão para o título do evento**](#padrão-para-o-título-do-evento-1)
+- [Cargos e Funções](#cargos-e-funções)
+  - [Funções dos Engenheiros de Software](#funções-dos-engenheiros-de-software)
+  - [**Funções dos Designers**](#funções-dos-designers)
+    - [**Líderes UX e UI**](#líderes-ux-e-ui)
+    - [**Designers UI**](#designers-ui)
+  - [**Funções dos Desenvolvedores Back-end**](#funções-dos-desenvolvedores-back-end)
+  - [**Funções dos Desenvolvedores Front-end**](#funções-dos-desenvolvedores-front-end)
+
 # 👥 Squads
 
 ## C04 - Plataforma ADAGRO - Conecta
