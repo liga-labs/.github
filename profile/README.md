@@ -57,7 +57,9 @@ Todas as reuniões deverão ocorrer **exclusivamente** no canal do Discord de ca
 
 _(conforme a imagem ilustrativa abaixo)_
 
-![Screenshot 2026-01-03 at 15.09.38-1.png](Guia%20de%20Onboarding/Screenshot_2026-01-03_at_15.09.38-1.png)
+<p align="center">
+  <img src="Guia de Onboarding/Screenshot_2026-01-03_at_15.09.38-1.png" style="max-width: 50%;">
+</p>
 
 ## 🚨 Regra de Comunicação
 
@@ -74,7 +76,12 @@ Os links de acesso ao **Figma** de cada projeto devem ser adicionados no card
 
 _(conforme exemplificado na imagem abaixo)_
 
-![Screenshot 2026-01-03 at 15.04.08-1.png](Guia%20de%20Onboarding/Screenshot_2026-01-03_at_15.04.08-1.png)
+<p align="center">
+  <img 
+    src="Guia de Onboarding/Screenshot_2026-01-03_at_15.04.08-1.png" 
+    style="max-width: 50%;"
+  >
+</p>
 
 ## 🎨🛠️ Instruções Figma
 
@@ -138,12 +145,14 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
    - _Entender as necessidades do cliente ou do negócio._
    - _Traduzir problemas reais em soluções técnicas._
    - _Especificar e melhorar requisitos de sistemas._
+
 2. **Planejamento e Coordenação Técnica**
    - _Planejar e revisar sprints._
    - _Definir tarefas técnicas para desenvolvedores e designers._
    - _Remover impedimentos e articular com a equipe._
    - _Ajudar na tomada de decisões técnicas do time._
    - _Mentorar desenvolvedores mais novos._
+
 3. **Arquitetura, Design e Modelagem**
    - _Definir a arquitetura do software._
    - _Pensar em escalabilidade, segurança e manutenibilidade._
@@ -151,14 +160,17 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
    - _Construir documentos de modelagem do sistema (Diagramas de Classes e DER)._
    - _Melhorar continuamente os templates de projeto._
    - _Documentar código e decisões técnicas._
+
 4. **Desenvolvimento e Qualidade**
    - _Criar versões estáveis de código._
    - _Revisar código com base em boas práticas (SOLID, DRY, KISS, Clean Code)._
    - _Garantir que o sistema funcione corretamente antes de ir para produção._
+
 5. **Entrega, Operação e DevOps**
    - _Preparar o software para produção._
    - _Estruturar pipelines de CI/CD._
    - _Monitorar sistemas em funcionamento._
+
 6. **Evolução Contínua**
    - _Aprender novas tecnologias e ferramentas._
 
@@ -167,15 +179,20 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 ### **Líderes UX e UI**
 
 - Responsáveis pelo acompanhamento e desenvolvimento de 1 produto.
+
 - Responsáveis pela revisão das telas dos outros produtos.
   - _Mas não precisam participar das Reviews, apenas acompanhar possíveis dúvidas dos Designers UI._
+
 - Participar dos ritos semanais internos e reuniões de validação quando necessário.
+
 - Validar as interfaces diretamente pelo grupo de whatsapp com o cliente.
 
 ### **Designers UI**
 
 - Responsáveis pelo acompanhamento e desenvolvimento da interface de 1 produto.
+
 - Participar dos ritos semanais internos.
+
 - Validar as interfaces com diretamente pelo grupo de whatsapp com o cliente;
   - _E, caso considerem necessário, validar com os líderes._
 
@@ -185,24 +202,32 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
    - _Criar e manter endpoints respeitando os princípios REST._
    - _Garantir autenticação, autorização e tratamento de erros adequado._
      _Documentar as APIs com OpenAPI (Swagger ou similar)._
+
 2. **Aplicar testes automatizados**
    - _Escrever **testes unitários** para garantir o comportamento de funções isoladas._
    - _Implementar **testes de integração** para validar fluxos entre camadas e serviços._
+
 3. **Utilizar princípios SOLID e padrões de projeto**
    - _Organizar o código de forma legível, reutilizável e sustentável._
    - _Utilizar padrões como Repository, Service, Controller, etc._
+
 4. **Arquitetar sistemas com DDD e Clean Architecture**
    - _Isolar lógica de negócio da infraestrutura._
    - _Estruturar os projetos por contexto de domínio e responsabilidade_.
+
 5. **Implementar práticas de CI/CD**
    - _Automatizar pipelines de build, testes e deploy._
    - _Garantir entregas contínuas e confiáveis._
+
 6. **Gerenciar tarefas no Scrum**
    - _Atualizar status no quadro, estimar esforço e participar de cerimônias ágeis._
+
 7. **Seguir boas práticas de versionamento e revisão de código**
    - _Utilizar Git com branches bem nomeadas, PRs com boas descrições e participar de revisões de código._
+
 8. **Realizar code reviews com foco em qualidade e padrões REST**
    - _Revisar PRs com atenção à consistência de contratos, semântica de rotas e qualidade de código._
+
 9. **Colaborar em decisões técnicas e integrações com o frontend**
    - _Participar de definições de arquitetura e refinamentos técnicos com o time._
    - _Alinhar contratos e fluxos com o time frontend._
@@ -212,23 +237,30 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 1. **Componentizar as interfaces do projeto**
    - _Criar componentes reutilizáveis, responsivos e acessíveis com base em um design system._
    - _Organizar os componentes por responsabilidade e manter o código limpo e legível._
+
 2. **Consumir APIs RESTful**
    - _Integrar o frontend com as APIs expostas pelo backend, respeitando os contratos definidos._
    - _Tratar erros de forma apropriada, lidar com estados de carregamento, sucesso e falha._
    - _Validar e mapear dados conforme a necessidade da interface._
+
 3. **Criar e manter testes automatizados**
    - _**Testes E2E** (ex: com Cypress ou Playwright) para validar o comportamento do sistema como um todo._
    - _(Opcional, mas recomendável) **Testes unitários** para lógica isolada e componentes (ex: com React Testing Library ou Vitest)._
+
 4. **Garantir performance e acessibilidade (a11y)**
    - _Otimizar tempo de carregamento, lazy loading de componentes e imagens._
    - _Usar boas práticas de semântica HTML, contrastes e navegação por teclado._
+
 5. **Seguir boas práticas de versionamento e revisão de código**
    - _Utilizar Git com branches bem nomeadas, PRs com boas descrições e participar de revisões de código._
+
 6. **Implementar práticas de CI/CD**
    - _Automatizar pipelines de build, testes e deploy._
    - _Garantir entregas contínuas e confiáveis._
+
 7. **Gerenciar tarefas no quadro Scrum**
    - _Atualizar status, estimar complexidade e participar de cerimônias ágeis como planning, daily e review._
+
 8. **Colaborar com o time de design e produto**
    - _Trabalhar junto com designers para garantir fidelidade visual, responsividade e uma boa experiência do usuário._
    - _Sugerir melhorias com base em feedbacks e testes de usabilidade._
