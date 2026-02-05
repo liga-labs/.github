@@ -6,8 +6,6 @@ Ao ingressar em um projeto, o participante é adicionado ao **time** corresponde
 
 # 👥 Squads
 
----
-
 ## C04 - Plataforma ADAGRO - Conecta
 
 [Acessar Time no GitHub](https://github.com/orgs/liga-labs/teams/c04-plataforma-adagro-conecta)
@@ -42,8 +40,6 @@ Todo o código desenvolvido ao longo de cada ciclo **deve obrigatoriamente segui
 
 # 💬 Discord
 
----
-
 Todas as categorias e canais dos projetos encontram-se no Discord.
 
 **Link de acesso ao servidor:** [https://discord.gg/XhtNCuMF](https://discord.gg/XhtNCuMF)
@@ -72,8 +68,6 @@ O WhatsApp deve ser utilizado **apenas** como meio de lembrete para que mensagen
 Essa diretriz tem como objetivo **centralizar todas as discussões em um único ambiente**, garantindo transparência e alinhamento entre todos os envolvidos.
 
 # 🎨 Aos Designers
-
----
 
 Os links de acesso ao **Figma** de cada projeto devem ser adicionados no card
  `🎨 Link de acesso ao Figma da plataforma`, presente no quadro do respectivo projeto.
@@ -106,8 +100,6 @@ Seguem, abaixo, os links dos Figmas dos projetos do Ciclo 04, com o nome do resp
 
 # 🛠️ Aos Engenheiros de Software
 
----
-
 ## Agendamento de Planejamento e Revisão de Sprint
 
 Deve ser criada uma **agenda semanal recorrente** no Google Calendar para o planejamento e a revisão das sprints de cada projeto. Todos os membros da squad devem ser adicionados ao evento, bem como os seguintes e-mails:
@@ -136,8 +128,6 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 ### **Padrão para o título do evento**
 
 `C04 – Plataforma PROCON – ReclamaProcon: Validação de Requisitos`
-
----
 
 # Cargos e Funções
 
@@ -183,17 +173,16 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 
      * Aprender novas tecnologias e ferramentas.
 
-### 
-
 ## Funções dos Designers
 
-* **Líderes UX e UI**:  
+### Líderes UX e UI
   * Responsáveis pelo acompanhamento e desenvolvimento de 1 produto.
   * Responsáveis pela revisão das telas dos outros produtos.
     * *Mas não precisam participar das Reviews, apenas acompanhar possíveis dúvidas dos Designers UI.*  
   * Participar dos ritos semanais internos e reuniões de validação quando necessário.
   * Validar as interfaces diretamente pelo grupo de  whatsapp com o cliente.   
-* **Designers UI**:  
+
+### Designers UI
   * Responsáveis pelo acompanhamento e desenvolvimento da interface de 1 produto.  
   * Participar dos ritos semanais internos.
   * Validar as interfaces com diretamente pelo grupo de  whatsapp com o cliente;  
