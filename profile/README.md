@@ -4,9 +4,9 @@ Este documento reúne as principais orientações para novos integrantes dos pro
 
 Ao ingressar em um projeto, o participante é adicionado ao **time** correspondente no **GitHub**, com acesso aos repositórios e ao quadro de gestão de tarefas disponível na aba `Projects`.
 
----
-
 # 👥 Squads
+
+---
 
 ## C04 - Plataforma ADAGRO - Conecta
 
@@ -39,11 +39,10 @@ Todo o código desenvolvido ao longo de cada ciclo **deve obrigatoriamente segui
 🔗 [https://outstanding-armadillo-c23.notion.site/Manual-de-Padr-es-e-Ferramentas-d7fe41f921a240589f7a70c2198033a2](https://www.notion.so/d7fe41f921a240589f7a70c2198033a2?pvs=21)
 
 > ⚠️ Atenção: Não é permitida a utilização de outro template de projeto sem autorização prévia da coordenação.
-> 
-
----
 
 # 💬 Discord
+
+---
 
 Todas as categorias e canais dos projetos encontram-se no Discord.
 
@@ -73,6 +72,8 @@ O WhatsApp deve ser utilizado **apenas** como meio de lembrete para que mensagen
 Essa diretriz tem como objetivo **centralizar todas as discussões em um único ambiente**, garantindo transparência e alinhamento entre todos os envolvidos.
 
 # 🎨 Aos Designers
+
+---
 
 Os links de acesso ao **Figma** de cada projeto devem ser adicionados no card
  `🎨 Link de acesso ao Figma da plataforma`, presente no quadro do respectivo projeto.
@@ -104,6 +105,8 @@ Seguem, abaixo, os links dos Figmas dos projetos do Ciclo 04, com o nome do resp
 [Projetos e Links](Guia%20de%20Onboarding/Projetos%20e%20Links%202e05d5b63b3a80b08c8afc854ff37933.csv)
 
 # 🛠️ Aos Engenheiros de Software
+
+---
 
 ## Agendamento de Planejamento e Revisão de Sprint
 
@@ -281,8 +284,6 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 
    * Trabalhar junto com designers para garantir fidelidade visual, responsividade e uma boa experiência do usuário.  
    * Sugerir melhorias com base em feedbacks e testes de usabilidade.
-
-
 
 ---
 
