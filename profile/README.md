@@ -136,65 +136,67 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 
 ---
 
-# **Atribuições do Engenheiro de Software – LigaLabs**
+# Cargos e Funções
+
+## Funções dos Engenheiros de Software
 
 1.  **Levantamento de Requisitos e Negócio**
 
-     * Participar de reuniões com stakeholders (produto, negócio e usuários)
-     * Entender as necessidades do cliente ou do negócio
-     * Traduzir problemas reais em soluções técnicas
-     * Especificar e melhorar requisitos de sistemas
+     * Participar de reuniões com stakeholders (produto, negócio e usuários).
+     * Entender as necessidades do cliente ou do negócio.
+     * Traduzir problemas reais em soluções técnicas.
+     * Especificar e melhorar requisitos de sistemas.
 
 2.  **Planejamento e Coordenação Técnica**
 
-     * Planejar e revisar sprints
-     * Definir tarefas técnicas para desenvolvedores e designers
-     * Remover impedimentos e articular com a equipe
-     * Ajudar na tomada de decisões técnicas do time
-     * Mentorar desenvolvedores mais novos
+     * Planejar e revisar sprints.
+     * Definir tarefas técnicas para desenvolvedores e designers.
+     * Remover impedimentos e articular com a equipe.
+     * Ajudar na tomada de decisões técnicas do time.
+     * Mentorar desenvolvedores mais novos.
 
 3.  **Arquitetura, Design e Modelagem**
 
-     * Definir a arquitetura do software
-     * Pensar em escalabilidade, segurança e manutenibilidade
-     * Projetar APIs, integrações e fluxos de dados
-     * Construir documentos de modelagem do sistema (Diagramas de Classes e DER)
-     * Melhorar continuamente os templates de projeto
-     * Documentar código e decisões técnicas**
+     * Definir a arquitetura do software.
+     * Pensar em escalabilidade, segurança e manutenibilidade.
+     * Projetar APIs, integrações e fluxos de dados.
+     * Construir documentos de modelagem do sistema (Diagramas de Classes e DER).
+     * Melhorar continuamente os templates de projeto.
+     * Documentar código e decisões técnicas.
 
 4.  **Desenvolvimento e Qualidade**
 
-     * Criar versões estáveis de código
-     * Revisar código com base em boas práticas (SOLID, DRY, KISS, Clean Code)
-     * Garantir que o sistema funcione corretamente antes de ir para produção
+     * Criar versões estáveis de código.
+     * Revisar código com base em boas práticas (SOLID, DRY, KISS, Clean Code).
+     * Garantir que o sistema funcione corretamente antes de ir para produção.
 
 5.  **Entrega, Operação e DevOps**
 
-     * Preparar o software para produção
-     * Estruturar pipelines de CI/CD
-     * Monitorar sistemas em funcionamento
+     * Preparar o software para produção.
+     * Estruturar pipelines de CI/CD.
+     * Monitorar sistemas em funcionamento.
 
 6.  **Evolução Contínua**
 
-     * Aprender novas tecnologias e ferramentas
+     * Aprender novas tecnologias e ferramentas.
 
 ### 
 
-# **🧠 Funções Designers**
+## Funções dos Designers
 
 * **Líderes UX e UI**:  
-  * Responsáveis pelo acompanhamento e desenvolvimento de 1 produto  
-  * Responsáveis pela revisão das telas dos outros produtos   
-    * *Mas não precisam participar das Reviews, apenas acompanhar possíveis dúvidas dos Designers UI*  
-  * Participar dos ritos semanais internos e reuniões de validação quando necessário  
-  * Validar as interfaces diretamente pelo grupo de  whatsapp com o cliente;   
+  * Responsáveis pelo acompanhamento e desenvolvimento de 1 produto.
+  * Responsáveis pela revisão das telas dos outros produtos.
+    * *Mas não precisam participar das Reviews, apenas acompanhar possíveis dúvidas dos Designers UI.*  
+  * Participar dos ritos semanais internos e reuniões de validação quando necessário.
+  * Validar as interfaces diretamente pelo grupo de  whatsapp com o cliente.   
 * **Designers UI**:  
   * Responsáveis pelo acompanhamento e desenvolvimento da interface de 1 produto.  
-  * Participar dos ritos semanais internos  
+  * Participar dos ritos semanais internos.
   * Validar as interfaces com diretamente pelo grupo de  whatsapp com o cliente;  
-    * E, caso considerem necessário, validar com os líderes; 
+    * E, caso considerem necessário, validar com os líderes.
 
-# **🧠 Funções dos Desenvolvedores Back-end**
+## Funções dos Desenvolvedores Back-end
 
 1. **Desenvolver APIs RESTful seguras e escaláveis**
 
@@ -239,7 +241,7 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
    * Participar de definições de arquitetura e refinamentos técnicos com o time.  
    * Alinhar contratos e fluxos com o time frontend.
 
-# **🎨 Funções dos Desenvolvedores Front-end**
+## Funções dos Desenvolvedores Front-end
 
 1. **Componentizar as interfaces do projeto**
 
