@@ -58,7 +58,7 @@ Todas as reuniões deverão ocorrer **exclusivamente** no canal do Discord de ca
 _(conforme a imagem ilustrativa abaixo)_
 
 <p align="center">
-  <img src="Guia de Onboarding/Screenshot_2026-01-03_at_15.09.38-1.png" style="max-width: 50%;">
+  <img src="Guia de Onboarding/Screenshot_2026-01-03_at_15.09.38-1.png" width="300">
 </p>
 
 ## 🚨 Regra de Comunicação
@@ -79,7 +79,7 @@ _(conforme exemplificado na imagem abaixo)_
 <p align="center">
   <img 
     src="Guia de Onboarding/Screenshot_2026-01-03_at_15.04.08-1.png" 
-    style="max-width: 50%;"
+    width="300"
   >
 </p>
 
