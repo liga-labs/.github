@@ -21,16 +21,16 @@ Ao ingressar em um projeto, o participante é adicionado ao **time** corresponde
   - [🔗 Links Figmas](#-links-figmas)
 - [🛠️ Aos Engenheiros de Software](#️-aos-engenheiros-de-software)
   - [Agendamento de Planejamento e Revisão de Sprint](#agendamento-de-planejamento-e-revisão-de-sprint)
-    - [**Padrão para o título do evento**](#padrão-para-o-título-do-evento)
+    - [Padrão para o título do evento](#padrão-para-o-título-do-evento)
   - [Agendamento de Reunião de Validação com o Cliente](#agendamento-de-reunião-de-validação-com-o-cliente)
-    - [**Padrão para o título do evento**](#padrão-para-o-título-do-evento-1)
+    - [Padrão para o título do evento](#padrão-para-o-título-do-evento-1)
 - [Cargos e Funções](#cargos-e-funções)
   - [Funções dos Engenheiros de Software](#funções-dos-engenheiros-de-software)
-  - [**Funções dos Designers**](#funções-dos-designers)
-    - [**Líderes UX e UI**](#líderes-ux-e-ui)
-    - [**Designers UI**](#designers-ui)
-  - [**Funções dos Desenvolvedores Back-end**](#funções-dos-desenvolvedores-back-end)
-  - [**Funções dos Desenvolvedores Front-end**](#funções-dos-desenvolvedores-front-end)
+  - [Funções dos Designers](#funções-dos-designers)
+    - [Líderes UX e UI](#líderes-ux-e-ui)
+    - [Designers UI](#designers-ui)
+  - [Funções dos Desenvolvedores Back-end](#funções-dos-desenvolvedores-back-end)
+  - [Funções dos Desenvolvedores Front-end](#funções-dos-desenvolvedores-front-end)
 
 # 👥 Squads
 
@@ -142,7 +142,7 @@ Deve ser criada uma **agenda semanal recorrente** no Google Calendar para o plan
 - [augusto.oliveira@upe.br](mailto:augusto.oliveira@upe.br)
 - [victor.santos@upe.br](mailto:victor.santos@upe.br)
 
-### **Padrão para o título do evento**
+### Padrão para o título do evento
 
 `C04 – Plataforma PROCON – ReclamaProcon: Planejamento e Revisão de Sprint`
 
@@ -160,7 +160,7 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 - A reunião deverá ocorrer via **Google Meet**;
 - O seguinte e-mail também deve ser adicionado à agenda: **luiz.arruda.setd@gmail.com**
 
-### **Padrão para o título do evento**
+### Padrão para o título do evento
 
 `C04 – Plataforma PROCON – ReclamaProcon: Validação de Requisitos`
 
@@ -202,9 +202,9 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 6. **Evolução Contínua**
    - _Aprender novas tecnologias e ferramentas._
 
-## **Funções dos Designers**
+## Funções dos Designers
 
-### **Líderes UX e UI**
+### Líderes UX e UI
 
 - Responsáveis pelo acompanhamento e desenvolvimento de 1 produto.
 
@@ -215,7 +215,7 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 
 - Validar as interfaces diretamente pelo grupo de whatsapp com o cliente.
 
-### **Designers UI**
+### Designers UI
 
 - Responsáveis pelo acompanhamento e desenvolvimento da interface de 1 produto.
 
@@ -224,7 +224,7 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 - Validar as interfaces com diretamente pelo grupo de whatsapp com o cliente;
   - _E, caso considerem necessário, validar com os líderes._
 
-## **Funções dos Desenvolvedores Back-end**
+## Funções dos Desenvolvedores Back-end
 
 1. **Desenvolver APIs RESTful seguras e escaláveis**
    - _Criar e manter endpoints respeitando os princípios REST._
@@ -260,7 +260,7 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
    - _Participar de definições de arquitetura e refinamentos técnicos com o time._
    - _Alinhar contratos e fluxos com o time frontend._
 
-## **Funções dos Desenvolvedores Front-end**
+## Funções dos Desenvolvedores Front-end
 
 1. **Componentizar as interfaces do projeto**
    - _Criar componentes reutilizáveis, responsivos e acessíveis com base em um design system._
