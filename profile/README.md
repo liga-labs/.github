@@ -49,13 +49,13 @@ Após ingressarem no servidor, os participantes devem acessar a opção `Canais 
 - o projeto ao qual estão vinculados;
 - o cargo correspondente à sua função no time.
 
-*(conforme ilustrado na imagem abaixo)*
+_(conforme ilustrado na imagem abaixo)_
 
 ![Screenshot 2026-01-03 at 15.14.16-1.png](Guia%20de%20Onboarding/Screenshot_2026-01-03_at_15.14.16-1.png)
 
 Todas as reuniões deverão ocorrer **exclusivamente** no canal do Discord de cada projeto, identificado como `🔈 Meeting Room 👥`.
 
-*(conforme a imagem ilustrativa abaixo)*
+_(conforme a imagem ilustrativa abaixo)_
 
 ![Screenshot 2026-01-03 at 15.09.38-1.png](Guia%20de%20Onboarding/Screenshot_2026-01-03_at_15.09.38-1.png)
 
@@ -70,15 +70,15 @@ Essa diretriz tem como objetivo **centralizar todas as discussões em um único 
 # 🎨 Aos Designers
 
 Os links de acesso ao **Figma** de cada projeto devem ser adicionados no card
- `🎨 Link de acesso ao Figma da plataforma`, presente no quadro do respectivo projeto.
+`🎨 Link de acesso ao Figma da plataforma`, presente no quadro do respectivo projeto.
 
-*(conforme exemplificado na imagem abaixo)*
+_(conforme exemplificado na imagem abaixo)_
 
 ![Screenshot 2026-01-03 at 15.04.08-1.png](Guia%20de%20Onboarding/Screenshot_2026-01-03_at_15.04.08-1.png)
 
 ## 🎨🛠️ Instruções Figma
 
-Com relação ao uso do Figma, é possível encontrar as instruções de uso e produção no PPT a seguir: 
+Com relação ao uso do Figma, é possível encontrar as instruções de uso e produção no PPT a seguir:
 
 [https://docs.google.com/presentation/d/1PHuuuPmABquMNWGnEnvDmw5CsXfJFxkB2VUea9PVD-4/edit?slide=id.g3b4b4521a0b_0_0#slide=id.g3b4b4521a0b_0_0](https://docs.google.com/presentation/d/1PHuuuPmABquMNWGnEnvDmw5CsXfJFxkB2VUea9PVD-4/edit?slide=id.g3b4b4521a0b_0_0#slide=id.g3b4b4521a0b_0_0)
 
@@ -94,7 +94,7 @@ Segue aqui também o PPT construído para:
 
 ## 🔗 Links Figmas
 
-Seguem, abaixo, os links dos Figmas dos projetos do Ciclo 04, com o nome do respectivo designer responsável. 
+Seguem, abaixo, os links dos Figmas dos projetos do Ciclo 04, com o nome do respectivo designer responsável.
 
 [Projetos e Links](Guia%20de%20Onboarding/Projetos%20e%20Links%202e05d5b63b3a80b08c8afc854ff37933.csv)
 
@@ -133,146 +133,105 @@ Deve ser criada uma agenda **quinzenal recorrente** com os representantes do ór
 
 ## Funções dos Engenheiros de Software
 
-1.  **Levantamento de Requisitos e Negócio**
+1. **Levantamento de Requisitos e Negócio**
+   - _Participar de reuniões com stakeholders (produto, negócio e usuários)._
+   - _Entender as necessidades do cliente ou do negócio._
+   - _Traduzir problemas reais em soluções técnicas._
+   - _Especificar e melhorar requisitos de sistemas._
+2. **Planejamento e Coordenação Técnica**
+   - _Planejar e revisar sprints._
+   - _Definir tarefas técnicas para desenvolvedores e designers._
+   - _Remover impedimentos e articular com a equipe._
+   - _Ajudar na tomada de decisões técnicas do time._
+   - _Mentorar desenvolvedores mais novos._
+3. **Arquitetura, Design e Modelagem**
+   - _Definir a arquitetura do software._
+   - _Pensar em escalabilidade, segurança e manutenibilidade._
+   - _Projetar APIs, integrações e fluxos de dados._
+   - _Construir documentos de modelagem do sistema (Diagramas de Classes e DER)._
+   - _Melhorar continuamente os templates de projeto._
+   - _Documentar código e decisões técnicas._
+4. **Desenvolvimento e Qualidade**
+   - _Criar versões estáveis de código._
+   - _Revisar código com base em boas práticas (SOLID, DRY, KISS, Clean Code)._
+   - _Garantir que o sistema funcione corretamente antes de ir para produção._
+5. **Entrega, Operação e DevOps**
+   - _Preparar o software para produção._
+   - _Estruturar pipelines de CI/CD._
+   - _Monitorar sistemas em funcionamento._
+6. **Evolução Contínua**
+   - _Aprender novas tecnologias e ferramentas._
 
-     * Participar de reuniões com stakeholders (produto, negócio e usuários).
-     * Entender as necessidades do cliente ou do negócio.
-     * Traduzir problemas reais em soluções técnicas.
-     * Especificar e melhorar requisitos de sistemas.
+## **Funções dos Designers**
 
-2.  **Planejamento e Coordenação Técnica**
+### **Líderes UX e UI**
 
-     * Planejar e revisar sprints.
-     * Definir tarefas técnicas para desenvolvedores e designers.
-     * Remover impedimentos e articular com a equipe.
-     * Ajudar na tomada de decisões técnicas do time.
-     * Mentorar desenvolvedores mais novos.
+- Responsáveis pelo acompanhamento e desenvolvimento de 1 produto.
+- Responsáveis pela revisão das telas dos outros produtos.
+  - _Mas não precisam participar das Reviews, apenas acompanhar possíveis dúvidas dos Designers UI._
+- Participar dos ritos semanais internos e reuniões de validação quando necessário.
+- Validar as interfaces diretamente pelo grupo de whatsapp com o cliente.
 
-3.  **Arquitetura, Design e Modelagem**
+### **Designers UI**
 
-     * Definir a arquitetura do software.
-     * Pensar em escalabilidade, segurança e manutenibilidade.
-     * Projetar APIs, integrações e fluxos de dados.
-     * Construir documentos de modelagem do sistema (Diagramas de Classes e DER).
-     * Melhorar continuamente os templates de projeto.
-     * Documentar código e decisões técnicas.
+- Responsáveis pelo acompanhamento e desenvolvimento da interface de 1 produto.
+- Participar dos ritos semanais internos.
+- Validar as interfaces com diretamente pelo grupo de whatsapp com o cliente;
+  - _E, caso considerem necessário, validar com os líderes._
 
-4.  **Desenvolvimento e Qualidade**
-
-     * Criar versões estáveis de código.
-     * Revisar código com base em boas práticas (SOLID, DRY, KISS, Clean Code).
-     * Garantir que o sistema funcione corretamente antes de ir para produção.
-
-5.  **Entrega, Operação e DevOps**
-
-     * Preparar o software para produção.
-     * Estruturar pipelines de CI/CD.
-     * Monitorar sistemas em funcionamento.
-
-6.  **Evolução Contínua**
-
-     * Aprender novas tecnologias e ferramentas.
-
-## Funções dos Designers
-
-### Líderes UX e UI
-  * Responsáveis pelo acompanhamento e desenvolvimento de 1 produto.
-  * Responsáveis pela revisão das telas dos outros produtos.
-    * *Mas não precisam participar das Reviews, apenas acompanhar possíveis dúvidas dos Designers UI.*  
-  * Participar dos ritos semanais internos e reuniões de validação quando necessário.
-  * Validar as interfaces diretamente pelo grupo de  whatsapp com o cliente.   
-
-### Designers UI
-  * Responsáveis pelo acompanhamento e desenvolvimento da interface de 1 produto.  
-  * Participar dos ritos semanais internos.
-  * Validar as interfaces com diretamente pelo grupo de  whatsapp com o cliente;  
-    * E, caso considerem necessário, validar com os líderes.
-
-## Funções dos Desenvolvedores Back-end
+## **Funções dos Desenvolvedores Back-end**
 
 1. **Desenvolver APIs RESTful seguras e escaláveis**
-
-   * Criar e manter endpoints respeitando os princípios REST.  
-   * Garantir autenticação, autorização e tratamento de erros adequado.  
-     Documentar as APIs com OpenAPI (Swagger ou similar).
-
+   - _Criar e manter endpoints respeitando os princípios REST._
+   - _Garantir autenticação, autorização e tratamento de erros adequado._
+     _Documentar as APIs com OpenAPI (Swagger ou similar)._
 2. **Aplicar testes automatizados**
-
-   * Escrever **testes unitários** para garantir o comportamento de funções isoladas.  
-   * Implementar **testes de integração** para validar fluxos entre camadas e serviços.
-
+   - _Escrever **testes unitários** para garantir o comportamento de funções isoladas._
+   - _Implementar **testes de integração** para validar fluxos entre camadas e serviços._
 3. **Utilizar princípios SOLID e padrões de projeto**
-
-   * Organizar o código de forma legível, reutilizável e sustentável.  
-   * Utilizar padrões como Repository, Service, Controller, etc.
-
+   - _Organizar o código de forma legível, reutilizável e sustentável._
+   - _Utilizar padrões como Repository, Service, Controller, etc._
 4. **Arquitetar sistemas com DDD e Clean Architecture**
-
-   * Isolar lógica de negócio da infraestrutura.  
-   * Estruturar os projetos por contexto de domínio e responsabilidade.
-
+   - _Isolar lógica de negócio da infraestrutura._
+   - _Estruturar os projetos por contexto de domínio e responsabilidade_.
 5. **Implementar práticas de CI/CD**
-
-   * Automatizar pipelines de build, testes e deploy.  
-   * Garantir entregas contínuas e confiáveis.
-
+   - _Automatizar pipelines de build, testes e deploy._
+   - _Garantir entregas contínuas e confiáveis._
 6. **Gerenciar tarefas no Scrum**
-
-   * Atualizar status no quadro, estimar esforço e participar de cerimônias ágeis.
-
+   - _Atualizar status no quadro, estimar esforço e participar de cerimônias ágeis._
 7. **Seguir boas práticas de versionamento e revisão de código**
-
-   * Utilizar Git com branches bem nomeadas, PRs com boas descrições e participar de revisões de código.
-
+   - _Utilizar Git com branches bem nomeadas, PRs com boas descrições e participar de revisões de código._
 8. **Realizar code reviews com foco em qualidade e padrões REST**
-
-   * Revisar PRs com atenção à consistência de contratos, semântica de rotas e qualidade de código.
-
+   - _Revisar PRs com atenção à consistência de contratos, semântica de rotas e qualidade de código._
 9. **Colaborar em decisões técnicas e integrações com o frontend**
+   - _Participar de definições de arquitetura e refinamentos técnicos com o time._
+   - _Alinhar contratos e fluxos com o time frontend._
 
-   * Participar de definições de arquitetura e refinamentos técnicos com o time.  
-   * Alinhar contratos e fluxos com o time frontend.
-
-## Funções dos Desenvolvedores Front-end
+## **Funções dos Desenvolvedores Front-end**
 
 1. **Componentizar as interfaces do projeto**
-
-   * Criar componentes reutilizáveis, responsivos e acessíveis com base em um design system.  
-   * Organizar os componentes por responsabilidade e manter o código limpo e legível.
-
+   - _Criar componentes reutilizáveis, responsivos e acessíveis com base em um design system._
+   - _Organizar os componentes por responsabilidade e manter o código limpo e legível._
 2. **Consumir APIs RESTful**
-
-   * Integrar o frontend com as APIs expostas pelo backend, respeitando os contratos definidos.  
-   * Tratar erros de forma apropriada, lidar com estados de carregamento, sucesso e falha.  
-   * Validar e mapear dados conforme a necessidade da interface.
-
+   - _Integrar o frontend com as APIs expostas pelo backend, respeitando os contratos definidos._
+   - _Tratar erros de forma apropriada, lidar com estados de carregamento, sucesso e falha._
+   - _Validar e mapear dados conforme a necessidade da interface._
 3. **Criar e manter testes automatizados**
-
-   * **Testes E2E** (ex: com Cypress ou Playwright) para validar o comportamento do sistema como um todo.  
-   * (Opcional, mas recomendável) **Testes unitários** para lógica isolada e componentes (ex: com React Testing Library ou Vitest).
-
+   - _**Testes E2E** (ex: com Cypress ou Playwright) para validar o comportamento do sistema como um todo._
+   - _(Opcional, mas recomendável) **Testes unitários** para lógica isolada e componentes (ex: com React Testing Library ou Vitest)._
 4. **Garantir performance e acessibilidade (a11y)**
-
-   * Otimizar tempo de carregamento, lazy loading de componentes e imagens.  
-   * Usar boas práticas de semântica HTML, contrastes e navegação por teclado.
-
+   - _Otimizar tempo de carregamento, lazy loading de componentes e imagens._
+   - _Usar boas práticas de semântica HTML, contrastes e navegação por teclado._
 5. **Seguir boas práticas de versionamento e revisão de código**
-
-   * Utilizar Git com branches bem nomeadas, PRs com boas descrições e participar de revisões de código.
-
+   - _Utilizar Git com branches bem nomeadas, PRs com boas descrições e participar de revisões de código._
 6. **Implementar práticas de CI/CD**
-
-   * Automatizar pipelines de build, testes e deploy.  
-   * Garantir entregas contínuas e confiáveis.
-
+   - _Automatizar pipelines de build, testes e deploy._
+   - _Garantir entregas contínuas e confiáveis._
 7. **Gerenciar tarefas no quadro Scrum**
-
-   * Atualizar status, estimar complexidade e participar de cerimônias ágeis como planning, daily e review.
-
+   - _Atualizar status, estimar complexidade e participar de cerimônias ágeis como planning, daily e review._
 8. **Colaborar com o time de design e produto**
-
-   * Trabalhar junto com designers para garantir fidelidade visual, responsividade e uma boa experiência do usuário.  
-   * Sugerir melhorias com base em feedbacks e testes de usabilidade.
+   - _Trabalhar junto com designers para garantir fidelidade visual, responsividade e uma boa experiência do usuário._
+   - _Sugerir melhorias com base em feedbacks e testes de usabilidade._
 
 ---
 
@@ -280,4 +239,3 @@ Quaisques dúvidas ou dificuldades, nos comuniquem.
 
 Atenciosamente,
 **Coordenação LigaLabs**
-
